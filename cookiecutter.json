@@ -9,6 +9,5 @@
   "python_version": "",
   "node_version": "",
   "use_heroku": "",
-  "version": "",
-  "@cortex_hidden_keys": ["use_pipenv","python_version","node_version","use_heroku"],
+  "version": ""
 }
