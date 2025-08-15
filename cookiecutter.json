@@ -8,5 +8,6 @@
   "use_pipenv": "",
   "python_version": "",
   "node_version": "",
-  "use_heroku": ""
+  "use_heroku": "",
+  "version": ""
 }
