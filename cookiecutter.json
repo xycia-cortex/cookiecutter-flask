@@ -1,5 +1,6 @@
 {
   "project_name": "My Project",
+  "project_slug": "My Project",
   "database": ["postgres", "mysql"],
   "app_name": "",
   "version": "0.1.2"
