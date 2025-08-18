@@ -7,5 +7,6 @@
   "namespace": ["core", "edge"],
   "kebab_case_name": "",
   "database": true,
-  "description": ""
+  "description": "",
+  "version": ""
 }
